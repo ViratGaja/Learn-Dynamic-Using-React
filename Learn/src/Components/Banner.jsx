@@ -16,7 +16,7 @@ const Banner = () => {
                 {/* ✅ Removed conflicting flex classes */}
                 
                 <div className='banner_left'>
-                    <h1 className='text-6xl font-bold leading-[5rem] mb-6'>
+                    <h1 className='md:text-6xl text-3xl font-bold md:leading-[5rem] leading-[2.5rem] mb-6'>
                         Banking <br /> Starts Here
                     </h1>
                     <p className='mb-8 text-gray-600 leading-relaxed'>
